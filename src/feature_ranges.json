@@ -1,0 +1,22 @@
+{
+    "OverallQual": {
+        "min": 1.0,
+        "max": 10.0
+    },
+    "GrLivArea": {
+        "min": 334.0,
+        "max": 5642.0
+    },
+    "TotalBsmtSF": {
+        "min": 0.0,
+        "max": 6110.0
+    },
+    "BsmtFinSF1": {
+        "min": 0.0,
+        "max": 5644.0
+    },
+    "2ndFlrSF": {
+        "min": 0.0,
+        "max": 2065.0
+    }
+}
