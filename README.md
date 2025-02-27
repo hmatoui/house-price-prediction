@@ -11,5 +11,3 @@ A simple web application to predict house prices based on input features using m
 ## Dataset
 
 The [Kaggle Housing Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) is used for training and testing the models.
-
-## Project Structure
